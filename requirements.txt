@@ -3,6 +3,8 @@ spotipy
 google-generativeai
 textblob
 transformers
-pandas
+plotly
+wordcloud
 matplotlib
+pandas
 seaborn
